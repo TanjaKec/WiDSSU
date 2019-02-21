@@ -1,0 +1,52 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "WiDS Subotica"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Programme"
+    pre = "fa-book"
+    url = "/programme/"
+    weight = 1
+[[menu.main]]
+    name = "Facebook"
+    pre = "fa-facebook-square"
+    url = "https://www.facebook.com/WiDS2019/"
+    weight = 2
+[[menu.main]]
+    name = "Twitter"
+    pre = "fa-twitter-square"
+    url = "https://twitter.com/WiDS_Conference"
+    weight = 3
+
+[params]
+    description = "1st Woman in Data Science Conference in Serbia"
+    chapter = "Subotica, Serbia"
+    date = "25 April 2019"
+    customCSS = ["css/datateka.css", "css/font-awesome.min.css"]
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "wids-2color-1line.png"
+    width = 500
+    height = 150
+    alt = "Logo"
+
