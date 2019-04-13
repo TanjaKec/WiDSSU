@@ -30,8 +30,7 @@ date: "2019-02-20T21:48:51-07:00"
 • 6:00pm - Panel discussion: “Eliminating gender barriers: how can we encourage diversity and inclusion in the data science community?“ 
 
 **Moderators**: 
-[Nadica Miljkovic](http://bmit.etf.bg.ac.rs/member/nadica-miljkovic-2/)
-From [R-Ladies Belgrade](https://www.meetup.com/R-Ladies-Belgrade) meetup in Belgrade 
+[Nadica Miljković](http://bmit.etf.bg.ac.rs/member/nadica-miljkovic-2/) from [R-Ladies Belgrade](https://www.meetup.com/R-Ladies-Belgrade) meetup in Belgrade. 
 
 **Panelists**:
  
