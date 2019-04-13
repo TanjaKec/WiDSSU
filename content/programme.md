@@ -27,7 +27,7 @@ date: "2019-02-20T21:48:51-07:00"
 
 # Panel Discussion
 
-• 6:00pm - Panel discussion: “Dynamic engagement of women in DS Community in Serbia and beyond: How can we do it?“ 
+• 6:00pm - Panel discussion: “Eliminating gender barriers: how can we encourage diversity and inclusion in the data science community?“ 
 
 **Moderators**: 
 [Nadica Miljkovic](http://bmit.etf.bg.ac.rs/member/nadica-miljkovic-2/)
