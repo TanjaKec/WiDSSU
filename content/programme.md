@@ -29,9 +29,9 @@ date: "2019-02-20T21:48:51-07:00"
 
 • 6:00pm - Panel discussion: “Dynamic engagement of women in DS Community in Serbia and beyond: How can we do it?“ 
 
-**Moderator**: 
-
-[Tatjana Kecojević](https://www.linkedin.com/in/tatjana-kecojevic-803704143/) ([DataTeka](https://datateka.com))
+**Moderators**: 
+[Nadica Miljkovic](http://bmit.etf.bg.ac.rs/member/nadica-miljkovic-2/)
+From [R-Ladies Belgrade](https://www.meetup.com/R-Ladies-Belgrade) meetup in Belgrade 
 
 **Panelists**:
  
