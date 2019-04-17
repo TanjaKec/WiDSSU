@@ -6,18 +6,21 @@ date: "2019-02-20T21:48:51-07:00"
 
 • 12:00pm -- Doors open: registration and refreshments
 
-• 12:30pm -- Welcome to WiDS regional event: Introduction, Announcements
+• 12:40pm -- Welcome to WiDS regional event: Introduction, Announcements
 
-• 12:40pm -- The Global WiDS opening video
+• 12:50pm -- The Global WiDS opening video
 
 # Presentation Session
 
 • 1:00pm – [Olivera Grljević](https://www.linkedin.com/in/olivera-grljević-3842b516/) ([University of Novi Sad](http://www.uns.ac.rs/index.php/en/)): “Are Universities Empowering Women in Data Science?”
 
-• 1:40pm – [Bojana Milasinović](https://www.linkedin.com/in/bojanamilasinovic/) ([SpaceEvent](http://www.spacevent.org/), [EnterConference](http://www.enterconference.net/)): “Tech enterprises: How to unlock those ideas?”  
-• 2:00pm – [Valentina Djordjević](https://www.linkedin.com/in/valentina-%C4%91or%C4%91evi%C4%87) ([Things Solver](https://thingsolver.com)): “Developing a Data Science project - from scratch to the measurable impact”  
+• 1:30pm – [Valentina Djordjević](https://www.linkedin.com/in/valentina-%C4%91or%C4%91evi%C4%87) ([Things Solver](https://thingsolver.com)): “Developing a Data Science project - from scratch to the measurable impact”
 
-• 2:40pm – Coffee Break
+• 2:00pm – [Bojana Milasinović](https://www.linkedin.com/in/bojanamilasinovic/) ([SpaceEvent](http://www.spacevent.org/), [EnterConference](http://www.enterconference.net/)): “Tech enterprises: How to unlock those ideas?”    
+
+• 2:20pm – [Katica Ristić](https://www.linkedin.com/in/katica-risti%C4%87-542011148/) ([Elementary School "Mihajlo Pupin"](http://studyinserbia.rs/in/elektrotehnicka-skola-mihajlo-pupin-novi-sad)): “Mystique World of Data Science”
+
+• 2:50pm – Coffee Break
 
 # Workshop
 
