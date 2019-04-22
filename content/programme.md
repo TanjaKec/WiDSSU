@@ -38,11 +38,15 @@ date: "2019-02-20T21:48:51-07:00"
 **Panelists**:
  
 [Valentina Djordjević](https://www.linkedin.com/in/valentina-%C4%91or%C4%91evi%C4%87) [[Things Solver](https://thingsolver.com)],  
+
 [Olivera Grljević](https://www.linkedin.com/in/olivera-grljević-3842b516/) [[University of Novi Sad](http://www.uns.ac.rs/index.php/en/)],
+
 [Katarina Kosmina](https://www.linkedin.com/in/kosmina/) [[UNDP SR](http://www.rs.undp.org/content/serbia/en/home.html)], 
+
+[Milena Kresoja](https://www.linkedin.com/in/milena-k-57947430/) [[ARPM](https://www.arpm.co/)],
+
 [Bojana Milasinović](https://www.linkedin.com/in/bojanamilasinovic/) [[SpaceEvent](http://www.spacevent.org/), [EnterConference](http://www.enterconference.net/)], 
-[Milena Kresoja](https://www.linkedin.com/in/milena-k-57947430/)
-[[ARPM](https://www.arpm.co/)],
+
 [Dusica Vilov](https://www.linkedin.com/in/dusica-vilov-80982aba/) [[InfoStud](https://www.infostud.com/en/)].
 
 • 7:00pm -- Closing Talk 
