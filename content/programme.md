@@ -45,8 +45,6 @@ date: "2019-02-20T21:48:51-07:00"
 
 [Milena Kresoja](https://www.linkedin.com/in/milena-k-57947430/) [[ARPM](https://www.arpm.co/)],
 
-[Bojana Milasinović](https://www.linkedin.com/in/bojanamilasinovic/) [[SpaceEvent](http://www.spacevent.org/), [EnterConference](http://www.enterconference.net/)], 
-
 [Dusica Vilov](https://www.linkedin.com/in/dusica-vilov-80982aba/) [[InfoStud](https://www.infostud.com/en/)].
 
 • 7:00pm -- Closing Talk 
