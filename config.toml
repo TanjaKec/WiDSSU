@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://widssubotica.netlify.com/"
 languageCode = "en-us"
 title = "WiDS Subotica"
 theme = "hugo-lithium"
