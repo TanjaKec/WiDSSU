@@ -34,16 +34,14 @@ Bojana  presented her eventful journey from culture and media into the world of 
 
 [Katica Ristić](https://www.linkedin.com/in/katica-ristić-542011148/) - “Mystique World of Data Science”
 
-Katica’s presentation concluded this part of the conference, and in many ways it was a very useful insight into the reality of career change.
-From her position of a Maths teacher and with a desire to explore data, she embarked on a program of further study to become a data scientist. Since the conference Katica founded the Novi Sad chapter of [R-Ladies](https://www.meetup.com/rladies-novi-sad/) and is now beginning to build a women in data science community in the Novi Sad region.
+Katica’s presentation concluded this part of the conference, and in many ways it was a very useful insight into the reality of career change. From her position of a Maths teacher and with a desire to explore data, she embarked on a program of further study to become a data scientist. Since the conference Katica founded the Novi Sad chapter of [R-Ladies](https://www.meetup.com/rladies-novi-sad/) and is now beginning to build a women in data science community in the Novi Sad region.
 
 ![](/post/wids-outlook_files/2019-04-25 15.04.01.jpg){width=100%}
 
 The next session of the conference involved getting to work on the practicalities of working with [Hugo](https://gohugo.io) and [R’s blogdown](https://bookdown.org/yihui/blogdown/). This workshop was delivered by me [Tatjana Kecojević](https://www.linkedin.com/in/tatjana-kecojevic-803704143/) and as such is designed to encourage participation in the use of R, but with a useful and practical outcome by producing a website. I have delivered this workshop on a previous occasion and it proved to be very popular, this time was no different judging by the feedback.
 
 The **panel discussion** drew the conference to a conclusion.
-Broadly, we discussed the elimination of gender barriers and how to encourage diversity is the data science community.
-The discussion was moderated by [Nadica Milijković](http://automatika.etf.rs/en/department-personnel/98-english/content/faculty/615-phd-nadica-miljković?) via video link from [R-Ladies](https://www.meetup.com/R-Ladies-Belgrade) meetup in Belgrade. Nadica is a lecturer and the [School of Electrical Engineering , University of Belgrade](https://www.etf.bg.ac.rs/en). Nadica collated some engaging questions.
+Broadly, we discussed the elimination of gender barriers and how to encourage diversity is the data science community. The discussion was moderated by [Nadica Milijković](http://automatika.etf.rs/en/department-personnel/98-english/content/faculty/615-phd-nadica-miljković?) via video link from [R-Ladies](https://www.meetup.com/R-Ladies-Belgrade) meetup in Belgrade. Nadica is a lecturer and the [School of Electrical Engineering , University of Belgrade](https://www.etf.bg.ac.rs/en). Nadica collated some engaging questions.
 We had a couple of new faces on the panel – [Katarina Kosima](https://www.linkedin.com/in/kosmina/) works for [UNDP](http://www.rs.undp.org/content/serbia/en/home.html) as a coordinator related to digital information and IT education and is passionate advocate of open data and transparent research.
 In addition, [Milena Kresoja](https://www.linkedin.com/in/milena-k-57947430/) is another escapee from academia with her industrial experience giving her a wide perspective on related issues. Milena is a researcher at [ARPM](https://www.arpm.co), a platform for quantitative finance with a strong focus on building education programmes.
 
