@@ -25,6 +25,11 @@ enableEmoji = true
     pre = "fa-twitter-square"
     url = "https://twitter.com/WiDS_Conference"
     weight = 3
+[[menu.main]]
+    name = "Posts"
+    pre = "fa-bullhorn"
+    url = "/post/"
+    weight = 4
 
 [params]
     description = "1st Woman in Data Science Conference in Serbia"

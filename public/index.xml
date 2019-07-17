@@ -6,10 +6,20 @@
     <description>Recent content on WiDS Subotica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Feb 2019 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WiDS Outlook</title>
+      <link>/2019/07/04/wids-outlook/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/04/wids-outlook/</guid>
+      <description>The first WiDS in Serbia conference was a big success.
+We began by discussing the motivation and passion of all involved in WiDS and the potential to change entrenched attitudes to data science within Serbia and the wider Balkan region. The video which illustrates the power behind WiDS initiative, proved to be a neat and practical way of conveying many of the overarching issues to be discussed at this and future conferences.</description>
+    </item>
     
     <item>
       <title>Agenda:</title>

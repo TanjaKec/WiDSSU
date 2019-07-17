@@ -6,9 +6,46 @@
     <description>Recent content in Tags on WiDS Subotica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#DS</title>
+      <link>/tags/#ds/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/#ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#STEM</title>
+      <link>/tags/#stem/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/#stem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#WiDS</title>
+      <link>/tags/#wids/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/#wids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#diversity</title>
+      <link>/tags/#diversity/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/#diversity/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

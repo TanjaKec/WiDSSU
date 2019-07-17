@@ -1,0 +1,55 @@
+---
+title: WiDS Outlook
+author: Tatjana Kecojevic
+date: '2019-07-04'
+slug: wids-outlook
+categories: []
+tags:
+  - '#WiDS'
+  - '#DS'
+  - '#STEM'
+  - '#diversity'
+---
+The first WiDS in Serbia conference was a big success.
+
+We began by discussing the motivation and passion of all involved in WiDS and the potential to change entrenched attitudes to data science within Serbia and the wider Balkan region.
+The [video](https://www.youtube.com/watch?v=yF64nm8mUhA) which illustrates the power behind [WiDS]( https://www.widsconference.org) initiative, proved to be a neat and practical way of conveying many of the overarching issues to be discussed at this and future conferences.
+
+![](/post/wids-outlook_files/2019-04-25 12.41.45.jpg){width=100%}
+
+Four excellent speakers covered a wide spectrum of related subjects and their personal professional experiences of working with data science projects. Additionally, they discussed wider issues concerning entrepreneurship and education.
+
+[Olivera Grljević](https://www.linkedin.com/in/olivera-grljević-3842b516/) - “Are Universities Empowering Women in Data Science?”
+
+This presentation offered an insight into the current state of ICT fields in Serbian education and highlighted the existing gender disparity of students pursuing courses in technology. Olivera also presented the data that illustrated the challenges facing women in technology and suggested ways of improving participation of young girls in tech subjects.
+
+[Valentina Djordjević](https://www.linkedin.com/in/valentina-đorđević/) - “Developing a Data Science project - from scratch to the measurable impact”
+
+Valentina displayed a contagious enthusiasm, demonstrated in the manner she views her projects as an adventurous mystery solving journey through data science landscapes. She introduced the notional conundrum of whether to be a DS ‘generalist’ or DS ‘specialist’ by taking the delegates through a tour of her work flow experiences and conveying her commitment to the processes involved.
+Valentina’s feedback of the conference can be seen at [here](https://thingsolver.com/friday-talks-women-in-data-science/).
+
+[Bojana Milasinović](https://www.linkedin.com/in/bojanamilasinovic/) - “Tech enterprises: How to unlock those ideas?”	
+
+Bojana  presented her eventful journey from culture and media into the world of IT. She is someone who creates platforms that serve to empower other women to enter tech industries. As such, she presented insights into the pit falls and apprehensions related to  career adjustments , particularly fear of failure. She focussed on the importance of diverse communities that engage with potential issues as a route to further female empowerment.
+
+[Katica Ristić](https://www.linkedin.com/in/katica-ristić-542011148/) - “Mystique World of Data Science”.
+
+Katica’s presentation concluded this part of the conference, and in many ways it was a very useful insight into the reality of career change.
+From her position of a Maths teacher and with a desire to explore data, she embarked on a program of further study to become a data scientist. Since the conference Katica founded the Novi Sad chapter of [R-Ladies](https://www.meetup.com/rladies-novi-sad/) and is now beginning to build a women in data science community in the Novi Sad region.
+
+![](/post/wids-outlook_files/2019-04-25 15.04.01.jpg){width=100%}
+
+The next session of the conference involved getting to work on the practicalities of working with [Hugo](https://gohugo.io) and [R’s blogdown](https://bookdown.org/yihui/blogdown/). This workshop was delivered by me [Tatjana Kecojević](https://www.linkedin.com/in/tatjana-kecojevic-803704143/) and as such is designed to encourage participation in the use of R, but with a useful and practical outcome by producing a website. I have delivered this workshop on a previous occasion and it proved to be very popular, this time was no different judging by the feedback.
+
+The **panel discussion** drew the conference to a conclusion.
+Broadly, we discussed the elimination of gender barriers and how to encourage diversity is the data science community.
+The discussion was moderated by [Nadica Milijković](http://automatika.etf.rs/en/department-personnel/98-english/content/faculty/615-phd-nadica-miljković?) via video link from [R-Ladies](https://www.meetup.com/R-Ladies-Belgrade) meetup in Belgrade. Nadica is a lecturer and the [School of Electrical Engineering , University of Belgrade](https://www.etf.bg.ac.rs/en). Nadica collated some engaging questions.
+We had a couple of new faces on the panel – [Katarina Kosima](https://www.linkedin.com/in/kosmina/) works for [UNDP](http://www.rs.undp.org/content/serbia/en/home.html) as a coordinator related to digital information and IT education and is passionate advocate of open data and transparent research.
+In addition, [Milena Kresoja](https://www.linkedin.com/in/milena-k-57947430/) is another escapee from academia with her industrial experience giving her a wide perspective on related issues. Milena is a researcher at [ARPM](https://www.arpm.co), a platform for quantitative finance with a strong focus on building education programmes.
+
+![](/post/wids-outlook_files/2019-04-25 18.01.55.jpg){width=100%}
+
+The conference was well attended and a fantastic first here in Serbia. 
+Nevertheless, if we could disseminate event information earlier we could create a greater profile. During all of the sessions initiatives were discussed and new friendships formed and there is now a clear commitment to pushing ahead with our strategies for building on the foundations set at the conference.
+
+We like to thank [InfoStud](http://www.infostud.com/en/) for sposoring and hosting this event at their [InfoStudHub](https://www.infostudhub.rs).
