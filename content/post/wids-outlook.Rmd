@@ -32,7 +32,7 @@ Valentina’s feedback of the conference can be seen at [here](https://thingsolv
 
 Bojana  presented her eventful journey from culture and media into the world of IT. She is someone who creates platforms that serve to empower other women to enter tech industries. As such, she presented insights into the pit falls and apprehensions related to  career adjustments , particularly fear of failure. She focussed on the importance of diverse communities that engage with potential issues as a route to further female empowerment.
 
-[Katica Ristić](https://www.linkedin.com/in/katica-ristić-542011148/) - “Mystique World of Data Science”.
+[Katica Ristić](https://www.linkedin.com/in/katica-ristić-542011148/) - “Mystique World of Data Science”
 
 Katica’s presentation concluded this part of the conference, and in many ways it was a very useful insight into the reality of career change.
 From her position of a Maths teacher and with a desire to explore data, she embarked on a program of further study to become a data scientist. Since the conference Katica founded the Novi Sad chapter of [R-Ladies](https://www.meetup.com/rladies-novi-sad/) and is now beginning to build a women in data science community in the Novi Sad region.
