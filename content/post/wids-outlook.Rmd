@@ -5,10 +5,6 @@ date: '2019-07-04'
 slug: wids-outlook
 categories: []
 tags:
-  - '#WiDS'
-  - '#DS'
-  - '#STEM'
-  - '#diversity'
 ---
 The first WiDS in Serbia conference was a big success.
 
