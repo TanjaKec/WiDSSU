@@ -1,10 +1,10 @@
 ---
-title: WiDS Outlook
-author: Tatjana Kecojevic
-date: '2019-07-04'
-slug: wids-outlook
+title: WiDSSU_Outlook
+author: 'Tatjana Kecojevic'
+date: '2019-07-18'
+slug: widssu-outlook
 categories: []
-tags:
+tags: []
 ---
 The first WiDS in Serbia conference was a big success.
 
